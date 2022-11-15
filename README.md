@@ -34,7 +34,7 @@ npm test file_name.js
 
 ## Tips and Tricks
 
-- If you've not heard of the modern JavaScript method before, that's great! Google and read about the method before having a go at implementing it.
+- If you've not heard of the modern JavaScript method before, that's great! Google and read about the method before having a go at implementing it. The MDN docs are a great resource.
 
 - Your understanding is the most important thing, so take your time.
 
