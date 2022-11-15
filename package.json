@@ -1,0 +1,14 @@
+{
+	"name": "modern_js",
+	"version": "1.0.0",
+	"description": "In session refactoring exercise",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "Tech Returners",
+	"license": "MIT",
+	"homepage": "https://github.com/techreturners/lm-lab-modern-js",
+	"devDependencies": {
+		"jest": "^29.3.1"
+	}
+}
