@@ -1,6 +1,6 @@
-const sequence = require('./destructuring_arrays');
+const sequence = require("./destructuring_arrays");
 
-test('', () => {
-  
-  expect(sequence()).toBe("First, Second, Third");
+test("it returns the correct order from an array", () => {
+  const order = ["First", "Second", "Third"];
+  expect(sequence(order)).toBe("First, Second, Third");
 });

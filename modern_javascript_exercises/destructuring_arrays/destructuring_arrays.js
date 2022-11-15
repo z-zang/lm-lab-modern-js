@@ -1,23 +1,11 @@
-function sequence() {
-   const order = ['First', 'Second', 'Third']
+// Instructions can be found in destructuring_arrays.md
 
-   const first = order[0]
-   const second = order[1]
-   const third = order[2]
+function sequence(order) {
+  const first = order[0];
+  const second = order[1];
+  const third = order[2];
 
-   return (first + ", " + second + ", " + third);
+  return first + ", " + second + ", " + third;
 }
-
-
-// function sequence() {
-//     const order = ['First', 'Second', 'Third']
- 
-//     const first = order[0]
-//     const second = order[1]
-//     const third = order[2]
- 
-//     return (first + second + third);
-//  }
-
 
 module.exports = sequence;

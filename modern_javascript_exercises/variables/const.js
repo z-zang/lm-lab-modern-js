@@ -10,16 +10,23 @@ var tester = "hey hi";
 
 function newFunction() {
   var hello = "hello";
+  return hello;
 }
-console.log(hello); // error: hello is not defined
+// console.log(hello); // error: greeting is not defined
 
 //*********************************
 
-var greeter = "hey hi";
-var times = 4;
+var message = "hey hi";
+var times = 5;
 
-if (times > 3) {
-  var greeter = "say Hello instead";
+if (times > 4) {
+  var message = "say Hello instead";
 }
 
-console.log(greeter); // "say Hello instead"
+// console.log(messasge); // "say Hello instead"
+
+//*********************************
+
+// const greeting = "say Hi";
+// greeting = "say Hello instead";
+// console.log(greeting);
