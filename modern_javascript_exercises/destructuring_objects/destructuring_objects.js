@@ -8,8 +8,6 @@
 
 // Can you use object destructuring to save a bit of code?
 
-
-
 const person = {
     name: 'Ellie',
     city: 'Manchester',
