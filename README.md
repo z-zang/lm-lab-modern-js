@@ -6,7 +6,9 @@ Modern JavaScript: In session refactoring lab
 
 On your own, in groups or in pairs, work through the JavaScript files refactoring them using the suggested modern JavaScript method specified in the document.
 
-- Be sure to check the tests still pass after you've refactored the code! ✅
+- Be sure to read the accompanying instructions in the md files ✅
+
+- If the exercise has tests, be sure to check the tests still pass after you've refactored the code! ✅
 
 Once completed be ready to explain what you did back to the class.
 
@@ -34,7 +36,7 @@ npm test file_name.js
 
 ## Tips and Tricks
 
-- If you've not heard of the modern JavaScript method before, that's great! Google and read about the method before having a go at implementing it.
+- If you've not heard of the modern JavaScript method before, that's great! Google and read about the method before having a go at implementing it. The MDN docs are a great resource.
 
 - Your understanding is the most important thing, so take your time.
 
