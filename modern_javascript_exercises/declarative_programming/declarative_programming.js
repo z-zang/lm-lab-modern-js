@@ -1,3 +1,5 @@
+// Instructions can be found in declarative_programming.md
+
 function longPasswords(passwords) {
   let longPasswords = [];
 

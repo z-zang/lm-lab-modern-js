@@ -1,3 +1,5 @@
+// Instructions can be found in functions.md
+
 // Function Declarations
 // logPerson() is a "Function Declaration"
 // Note how it uses the "function" keyword at the beginning of it's declaration
