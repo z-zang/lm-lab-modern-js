@@ -5,7 +5,7 @@
 // Note how it uses the "function" keyword at the beginning of it's declaration
 // This is the original way of writing functions in JavaScript
 
-// Note: Named Functions can be passed as values, as shown. But written in different ways
+// Note: Named Functions can be passed as values, as shown. But written in different ways..
 
 const people = ["Harry", "Hermione", "Ron"];
 
@@ -15,17 +15,17 @@ function logPerson(person) {
 
 people.forEach(logPerson);
 
-// Function expressions/Functions as a Value
-// Refactor logPerson() so it is becomes a function expression (or "Function as a Value")
+// Function Expressions/Functions as a Value
+// Refactor logPerson() so it is becomes a Function Expression (or sometimes called a "Function as a Value")
 
 // Your code here
 
 // Anonymous Functions
-// Refactor logPerson() so it is becomes an anonymous function
+// Refactor logPerson() so it becomes an Anonymous Function
 
 // Your code here
 
 // Anonymous Arrow Functions
-// Refactor logPerson() so it is becomes a anonymous arrow function
+// Refactor logPerson() so it becomes a Anonymous Arrow Function
 
 // Your code here
