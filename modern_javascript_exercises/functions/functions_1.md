@@ -6,12 +6,10 @@ In JavaScript there are many different ways to write functions.
 
 In `functions_1.js`, refactor the `logPerson()` function declaration, into one of each of the following functions.
 
-- Function expression
-- Anonymous Function
-- Anonymous Arrow Function 💅
+-   Function expression
+-   Anonymous Function
+-   Anonymous Arrow Function 💅
 
 Note: There are no tests for this task!
 
-What is the difference between all these keraazy functions?
-
-👉 Can you explain what the differences are?
+👉 What is the difference between all these functions? Can you explain what the differences are?
