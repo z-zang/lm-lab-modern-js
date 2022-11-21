@@ -2,7 +2,7 @@
 
 💬 “Declarative Programming's... main goal is to describe the desired result without direct dictation on how to get it.” - GeeksforGeeks
 
-As the JavaScript language has developed, it has moved away from imperative methods, abstracting complexity away "under the hood".
+As the JavaScript language has developed, it has moved away from imperative methods, abstracting complexity away "under the hood". 🚙
 
 Modern JavaScript is a lot more _declarative_.
 

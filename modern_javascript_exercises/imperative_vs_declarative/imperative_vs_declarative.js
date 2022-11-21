@@ -1,4 +1,4 @@
-// Instructions can be found in declarative_vs_imperative.md
+// Instructions can be found in imperative_vs_declarative.md
 
 function longPasswords(passwords) {
   let longPasswords = [];
