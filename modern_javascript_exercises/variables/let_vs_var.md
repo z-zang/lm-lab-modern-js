@@ -1,10 +1,10 @@
 # Before ES6 - var was king! 👑
 
-### TLDR; Don't use var
+### TLDR; ⚠️ DON'T USE var ⚠️
 
 Before ES6 (ES2015) there was only one way to declare variables and constants in JavaScript, which was using `var`.
 
-But var was the cause of some var-y pesky bugs and straaange behaviour due, often, to scoping issues.
+But var was the cause of some var-y (😅) pesky bugs and strange behaviour due, often, to scoping issues.
 
 Below we have a forLoop inside a function `count()` that uses `var`
 
@@ -32,6 +32,6 @@ Replace the vars with `let` so we get the behaviour we expect!
 
 ## Handy Hint:
 
-You should now get some helpful console Errors from JavaScript warning us that `i` is not defined, and greeting has already been declared.
+You should now get some helpful console Errors from JavaScript warning us that `i` is not defined, and `greeting` has already been declared.
 
 Sweet!

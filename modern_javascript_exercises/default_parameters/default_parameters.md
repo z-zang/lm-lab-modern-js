@@ -6,7 +6,7 @@ If person is defined, it returns a greeting plus the persons name - "Hello, Laur
 
 If the person is undefined, it returns "Hello, you!"
 
-Can you shorten this function down using a default parameter?
+Can you shorten this function, using a default parameter?
 
 To run the tests:
 

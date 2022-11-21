@@ -1,8 +1,6 @@
 # Destructuring Objects
 
-The `introduction()` function uses Object Dot Notation to access different properties on the
-
-person object.
+The `introduction()` function uses Object Dot Notation to access different properties on the person object.
 
 This is ok - but it's quite long!
 
