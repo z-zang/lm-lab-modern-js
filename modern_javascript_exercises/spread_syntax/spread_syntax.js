@@ -1,5 +1,7 @@
-const numbers = [1, 2, 3];
-const moreNumbers = [4, 5, 6];
+/**
+ * @param {number[]} numbers An array of numbers
+ *  @param {number[]} moreNumbers An array of more numbers
+ */
 
 function allTheNumbers(numbers, moreNumbers) {
   return [];
