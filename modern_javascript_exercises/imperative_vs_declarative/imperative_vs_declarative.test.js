@@ -1,4 +1,4 @@
-const longPasswords = require("./declarative_vs_imperative");
+import { longPasswords } from "./imperative_vs_declarative";
 
 test("it returns passwords with a length greater than 9", () => {
   const passwords = [

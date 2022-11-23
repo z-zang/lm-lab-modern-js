@@ -1,6 +1,6 @@
 // Instructions can be found in imperative_vs_declarative.md
 
-function longPasswords(passwords) {
+export function longPasswords(passwords) {
   let longPasswords = [];
 
   for (let i = 0; i < passwords.length; i++) {
@@ -11,5 +11,3 @@ function longPasswords(passwords) {
   }
   return longPasswords;
 }
-
-module.exports = longPasswords;

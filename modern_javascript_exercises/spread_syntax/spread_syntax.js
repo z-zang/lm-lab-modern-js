@@ -3,8 +3,6 @@
  *  @param {number[]} moreNumbers An array of more numbers
  */
 
-function allTheNumbers(numbers, moreNumbers) {
+export function allTheNumbers(numbers, moreNumbers) {
   return [];
 }
-
-module.exports = allTheNumbers;
