@@ -28,7 +28,7 @@ Can you spot another problem with our code? 🕵️
 
 Have a think...
 
-Update the people array so that it uses `const` instead of `let`, as our people array doesn't get reassigned
+Answer: Update the people array so that it uses `const` instead of `let`, as our people array doesn't get reassigned
 
 ## Top Tip:
 
