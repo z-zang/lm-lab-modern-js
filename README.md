@@ -22,9 +22,9 @@ We recommend working through the files in the order below:
 
 3. [Default Parameters](modern_javascript_exercises/default_parameters/default_parameters.md) 
 
-4. Destructuring [Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md) 
+4. [Destructuring Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md) 
 
-5. [Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
+5. [Destructuring Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
 
 6. [Rest](modern_javascript_exercises/rest_parameters/rest_parameters.md) 
 
