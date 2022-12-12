@@ -14,17 +14,27 @@ On your own, in groups or in pairs, work through the JavaScript files and refact
 
 ## Contents
 
-We recommend the concepts worked on and then discussed with the class, are grouped together as so:
+We recommend working through the files in the order below:
 
-1. [Functions 1 & 2](modern_javascript_exercises/functions/functions_1.md), [Default Parameters](modern_javascript_exercises/default_parameters/default_parameters.md) and [Variables](modern_javascript_exercises/variables/let_vs_var.md)
+1. [Functions 1](modern_javascript_exercises/functions/functions_1.md), 
 
-2. Destructuring [Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md) and [Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
+2. [Variables](modern_javascript_exercises/variables/let_vs_var.md)
 
-3. [Rest](modern_javascript_exercises/rest_parameters/rest_parameters.md) and [Spread](modern_javascript_exercises/spread_syntax/spread_syntax.md) syntax (…)
+3. [Default Parameters](modern_javascript_exercises/default_parameters/default_parameters.md) 
 
-4. [Template Literals](modern_javascript_exercises/template_literals/template_literals.md) and [Ternaries](modern_javascript_exercises/ternaries/ternaries.md)
+4. Destructuring [Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md) 
 
-5. [Imperative vs Declarative Programming](modern_javascript_exercises/declarative_vs_imperative/declarative_vs_imperative.md)
+5. [Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
+
+6. [Rest](modern_javascript_exercises/rest_parameters/rest_parameters.md) 
+
+7. [Spread](modern_javascript_exercises/spread_syntax/spread_syntax.md) syntax (…)
+
+8. [Template Literals](modern_javascript_exercises/template_literals/template_literals.md) 
+
+9. [Ternaries](modern_javascript_exercises/ternaries/ternaries.md)
+
+10. [Imperative vs Declarative Programming](modern_javascript_exercises/declarative_vs_imperative/declarative_vs_imperative.md)
 
 ## Getting started
 
