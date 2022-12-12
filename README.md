@@ -12,7 +12,7 @@ On your own, in groups or in pairs, work through the JavaScript files and refact
 
 ✅ Once completed, be ready to explain what you did back to the rest of the cohort.
 
-## Contents
+## Contents
 
 We recommend working through the files in the order below:
 
