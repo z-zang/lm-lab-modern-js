@@ -16,7 +16,7 @@ On your own, in groups or in pairs, work through the JavaScript files and refact
 
 We recommend working through the files in the order below:
 
-1. [Functions 1](modern_javascript_exercises/functions/functions_1.md)
+1. [Functions](modern_javascript_exercises/functions/functions_1.md)
 
 2. [Variables](modern_javascript_exercises/variables/let_vs_var.md)
 
