@@ -14,4 +14,4 @@ Note: There are no tests for this task!
 
 👉 What is the difference between all these functions? Can you explain what the differences are?
 
-When you've finished this exercise move on to [Functions Part 2](functions_2.md) 🙌
+When you've finished this exercise move on to another file such as Variables 🙌
