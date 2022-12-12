@@ -6,7 +6,7 @@ As the JavaScript language has developed, it has moved away from imperative meth
 
 Modern JavaScript is a lot more _declarative_.
 
-For example, an example of imperative programming method would be a `for` loop:
+An example of an imperative programming method would be a `for` loop:
 
 ```JavaScript
 
@@ -26,7 +26,7 @@ If we refactored the `for` loop above into something more _declarative_, it woul
 
 // We are using forEach
 // We don't care about the individual steps needed (let i = 0; i < people.length etc) to get what we want - these details are hidden away
-// forEach is more descriptive, it *sounds* more like what we want to do...
+// forEach is more human friendly, it *sounds* more like what we want to do...
 
 const people = ["Barry", "Gary", "Larry"]
 
