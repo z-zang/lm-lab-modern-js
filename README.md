@@ -6,6 +6,8 @@
 
 On your own, in groups or in pairs, work through the JavaScript files and refactor them using the suggested modern JavaScript method specified in the document.
 
+You will need to fork and clone this repository to work through the solutions.
+
 ✅ Be sure to read the accompanying instructions in the md files
 
 ✅ If the exercise has tests, be sure to check the tests still pass after you've refactored the code! (💡 To do this, run `npm test`!)
