@@ -26,9 +26,9 @@ We recommend working through the files in the order below:
 
 5. [Destructuring Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
 
-6. [Rest](modern_javascript_exercises/rest_parameters/rest_parameters.md) 
+6. [Rest Parameters](modern_javascript_exercises/rest_parameters/rest_parameters.md) 
 
-7. [Spread](modern_javascript_exercises/spread_syntax/spread_syntax.md) syntax (…)
+7. [Spread Syntax](modern_javascript_exercises/spread_syntax/spread_syntax.md) 
 
 8. [Template Literals](modern_javascript_exercises/template_literals/template_literals.md) 
 
