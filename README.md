@@ -1,18 +1,18 @@
 # Modern JavaScript
 
-🤖 Modern JavaScript: In-session Refactoring Lab
+🤖 Modern JavaScript: In-session JavaScript Lab
 
 ## Instructions
 
-On your own, in groups or in pairs, work through the JavaScript files and refactor them using the suggested modern JavaScript method specified in the document.
+On your own, in groups or in pairs, work through the JavaScript files and re-write them using the suggested modern JavaScript method specified in the document.
 
-You will need to fork and clone this repository to work through the solutions.
+You will need to fork and clone this repository to work through the solutions
 
-✅ Be sure to read the accompanying instructions in the md files
+✅ Remember to read the accompanying instructions in the `.md` files
 
-✅ If the exercise has tests, be sure to check the tests still pass after you've refactored the code! (💡 To do this, run `npm test`!)
+✅ If the exercise has tests, be sure to check the tests still pass after you've changed the code! (💡 To do this, run `npm test`!)
 
-✅ Once completed, be ready to explain what you did back to the rest of the cohort.
+✅ Once completed, be ready to explain what you did back to the rest of the cohort
 
 ## Contents
 
