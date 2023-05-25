@@ -36,7 +36,7 @@ We recommend working through the files in the order below:
 
 9. [Ternaries](modern_javascript_exercises/ternaries/ternaries.md)
 
-10. [Imperative vs Declarative Programming](modern_javascript_exercises/declarative_vs_imperative/declarative_vs_imperative.md)
+10. [Imperative vs Declarative Programming](modern_javascript_exercises/imperative_vs_declarative/imperative_vs_declarative.md)
 
 ## Getting started
 
